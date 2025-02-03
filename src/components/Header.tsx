@@ -1,4 +1,5 @@
 import React from "react";
+import { Button } from "./ui/button";
 
 const Header = () => {
   return (
@@ -11,8 +12,8 @@ const Header = () => {
           <a href="#contact" className="text-gray-700">Contacto</a>
         </nav>
         <div className="flex space-x-4">
-          <button className="text-gray-700">Te llamamos</button>
-          <button className="text-gray-700">Solicita una demostración</button>
+          <Button variant="outline" className="text-gray-700">Te llamamos</Button>
+          <Button className="text-gray-700">Solicita una demostración</Button>
         </div>
       </div>
     </header>
