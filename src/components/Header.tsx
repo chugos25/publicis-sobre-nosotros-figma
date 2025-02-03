@@ -13,7 +13,7 @@ const Header = () => {
         </nav>
         <div className="flex space-x-4">
           <Button variant="outline" className="text-gray-700">Te llamamos</Button>
-          <Button className="text-gray-700">Solicita una demostración</Button>
+          <Button className="text-white">Solicita una demostración</Button>
         </div>
       </div>
     </header>
