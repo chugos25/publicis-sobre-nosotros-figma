@@ -1,0 +1,29 @@
+import React from "react";
+
+const InternationalPresenceSection = () => {
+  return (
+    <section className="py-8 bg-gray-50">
+      <div className="container mx-auto">
+        <div className="flex flex-col md:flex-row space-y-8 md:space-y-0 md:space-x-8">
+          <div className="md:w-1/3">
+            <h3 className="text-xl font-bold mb-2">Presencia internacional</h3>
+            <p className="text-gray-600">Operamos en más de 30 mercados con 10,000+ expertos en comercio digital.</p>
+            <img src="https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/f3f443ea995a1cd2161da7651d05494e1f9825e6e12dcd50d7a1f7314d64cb86?placeholderIfAbsent=true&width=100 100w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/f3f443ea995a1cd2161da7651d05494e1f9825e6e12dcd50d7a1f7314d64cb86?placeholderIfAbsent=true&width=200 200w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/f3f443ea995a1cd2161da7651d05494e1f9825e6e12dcd50d7a1f7314d64cb86?placeholderIfAbsent=true&width=400 400w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/f3f443ea995a1cd2161da7651d05494e1f9825e6e12dcd50d7a1f7314d64cb86?placeholderIfAbsent=true&width=800 800w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/f3f443ea995a1cd2161da7651d05494e1f9825e6e12dcd50d7a1f7314d64cb86?placeholderIfAbsent=true&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/f3f443ea995a1cd2161da7651d05494e1f9825e6e12dcd50d7a1f7314d64cb86?placeholderIfAbsent=true&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/f3f443ea995a1cd2161da7651d05494e1f9825e6e12dcd50d7a1f7314d64cb86?placeholderIfAbsent=true&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/f3f443ea995a1cd2161da7651d05494e1f9825e6e12dcd50d7a1f7314d64cb86?placeholderIfAbsent=true" alt="International Presence" className="mt-4" />
+          </div>
+          <div className="md:w-1/3">
+            <h3 className="text-xl font-bold mb-2">En España</h3>
+            <p className="text-gray-600">Contamos con 4 oficinas y un equipo especializado que combina alcance global con conocimiento local.</p>
+            <img src="https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/5d5759de5758253afbe41638de5dd809c0ea2fab7950e00837180124653b1ead?placeholderIfAbsent=true&width=100 100w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/5d5759de5758253afbe41638de5dd809c0ea2fab7950e00837180124653b1ead?placeholderIfAbsent=true&width=200 200w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/5d5759de5758253afbe41638de5dd809c0ea2fab7950e00837180124653b1ead?placeholderIfAbsent=true&width=400 400w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/5d5759de5758253afbe41638de5dd809c0ea2fab7950e00837180124653b1ead?placeholderIfAbsent=true&width=800 800w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/5d5759de5758253afbe41638de5dd809c0ea2fab7950e00837180124653b1ead?placeholderIfAbsent=true&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/5d5759de5758253afbe41638de5dd809c0ea2fab7950e00837180124653b1ead?placeholderIfAbsent=true&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/5d5759de5758253afbe41638de5dd809c0ea2fab7950e00837180124653b1ead?placeholderIfAbsent=true&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/5d5759de5758253afbe41638de5dd809c0ea2fab7950e00837180124653b1ead?placeholderIfAbsent=true" alt="In Spain" className="mt-4" />
+          </div>
+          <div className="md:w-1/3">
+            <h3 className="text-xl font-bold mb-2">Colaboraciones clave</h3>
+            <p className="text-gray-600">Asociaciones estratégicas con más de 200 retailers y plataformas líderes como Amazon.</p>
+            <img src="https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/22ba4cac7c85359a5e30f865893ca986df99e8b3ae37908f9f0875664ec02974?placeholderIfAbsent=true&width=100 100w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/22ba4cac7c85359a5e30f865893ca986df99e8b3ae37908f9f0875664ec02974?placeholderIfAbsent=true&width=200 200w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/22ba4cac7c85359a5e30f865893ca986df99e8b3ae37908f9f0875664ec02974?placeholderIfAbsent=true&width=400 400w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/22ba4cac7c85359a5e30f865893ca986df99e8b3ae37908f9f0875664ec02974?placeholderIfAbsent=true&width=800 800w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/22ba4cac7c85359a5e30f865893ca986df99e8b3ae37908f9f0875664ec02974?placeholderIfAbsent=true&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/22ba4cac7c85359a5e30f865893ca986df99e8b3ae37908f9f0875664ec02974?placeholderIfAbsent=true&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/22ba4cac7c85359a5e30f865893ca986df99e8b3ae37908f9f0875664ec02974?placeholderIfAbsent=true&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/60ab9767ff6f4175a00bf8a26717061b/22ba4cac7c85359a5e30f865893ca986df99e8b3ae37908f9f0875664ec02974?placeholderIfAbsent=true" alt="Key Collaborations" className="mt-4" />
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default InternationalPresenceSection;
